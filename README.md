@@ -30,8 +30,8 @@ Criação de sistemas completos com Node.js, React e Python, incluindo IA conver
 Formação prática e intensiva em desenvolvimento web, ciência de dados e IA.  
 
 ## 📫 Contato  
-- **📧 E-mail:** [contato@joaovonlinde.com](mailto:contato@joaovonlinde.com)  
-- **💻 GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)  
-- **💼 LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-- **💬 WhatsApp:** [Clique aqui](https://wa.me/seunumero)  
-- **📷 Instagram:** [@seu-usuario](https://instagram.com/seu-usuario)  
+- **📧 E-mail:** [contato@joaovonlinde.com](mailto:joaovonlinde@gmail.com)  
+- **💻 GitHub:** [github.com/seu-usuario](https://github.com/JoaoVonLinde)  
+- **💼 LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/João Von Linde)  
+- **💬 WhatsApp:** [Clique aqui](https://wa.me/85992759989)  
+- **📷 Instagram:** [@seu-usuario](https://instagram.com/vvonlinde)  
